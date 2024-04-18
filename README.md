@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realchris2023
 - 👀 I’m interested in programming software, making music, fideling with audio and playing games.
-- 🌱 I’m currently learning Functional Programming at IT University Copenhagen.
+- 🌱 I’m currently learning Functional Programming, Algorithms and Data Structures and about DBMS at IT University Copenhagen.
 - 💞️ I’m looking to collaborate on anything really, just trying to learn some new code stuff!
 - 📫 How to reach me @realchris2023 on instagram.
 
